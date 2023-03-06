@@ -2,7 +2,7 @@
 
 <div>
 <img width="50%" src="https://github.com/nasamarca/nasamarca/blob/main/github-metrics.svg" alt='metric'>
-<img width="50%" height="270" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt='img-com' align=right>
+<img width="50%" height="270" src="https://giphy.com/gifs/Giflytics-grlkPWm6vpdRqZqMQV" alt='img-com' align=right>
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasonalhilal/)](https://www.linkedin.com/in/nadiatussalam)
