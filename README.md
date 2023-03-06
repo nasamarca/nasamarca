@@ -1,8 +1,8 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png) 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png) 
 
 <div>
 <img width="50%" src="https://github.com/nasamarca/nasamarca/blob/main/github-metrics.svg" alt='metric'>
-<img width="50%" height="270" src="https://giphy.com/gifs/Giflytics-grlkPWm6vpdRqZqMQV" alt='img-com' align=right>
+<img width="50%" height="400" src="https://media4.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif?cid=ecf05e47xi76d8sv4xj4a1okkck5854818zvx0559vshmyoe&rid=giphy.gif&ct=g" alt='img-com' align=right>
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasonalhilal/)](https://www.linkedin.com/in/nadiatussalam)
